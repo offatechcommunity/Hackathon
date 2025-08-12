@@ -1,0 +1,4 @@
+- Arduino Nano
+- RGB LEDs 
+- Breadboard
+- Jumper wires
